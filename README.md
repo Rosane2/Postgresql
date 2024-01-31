@@ -5,3 +5,8 @@
 
 # Boa referência para iniciantes
  https://www.devmedia.com.br/principais-comandos-sql-com-postgresql/23366
+
+# Mini projeto de banco de dados vendas
+  - Criar banco de dados e tabelas
+  - Incluir dados
+
